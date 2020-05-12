@@ -16,4 +16,4 @@ Vulnerable Application - File sharing wizard V 1.5.0
 
 # Note
 
-Reverse shell is binded to a specific IP, inorder to succesfully run the code replace the localhost and generate a new shell
+Reverse shell is bound to a specific IP, inorder to succesfully run the code replace the localhost and generate a new shell
